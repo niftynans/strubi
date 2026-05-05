@@ -1,0 +1,12 @@
+{
+    "files.watcherExclude": {
+        "**": true
+    },
+    "files.watcherInclude": [
+        "src/"
+    ],
+    "files.exclude": {
+        "**/data/": false
+    },
+    "search.ripgrep.maxThreads": 1
+}

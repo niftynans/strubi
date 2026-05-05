@@ -1,0 +1,6 @@
+Selection:
+
+CoCo : ['cd3cd28.Raf', 'cd3cd28.Mek', 'cd3cd28.PIP3', 'cd3cd28.Akt', 'cd3cd28.P38']
+FCI-JCI : Akt, Erk
+Hidden PKC,Per-Context Majority,"['Akt', 'Erk', 'Jnk', 'Mek', 'P38', 'PIP2', 'PIP3', 'PKA', 'Plcg', 'Raf']",collider,0.0798
+Selected PKC (Top 20%),Per-Context Majority,"['Akt', 'Erk', 'Jnk', 'Mek', 'P38', 'PIP2', 'PIP3', 'PKA', 'Plcg', 'Raf']",collider,0.0637

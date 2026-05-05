@@ -1,0 +1,18 @@
+# .dockerignore
+*.csv
+*.npy
+*.pdf
+*.png
+results/
+archive/
+datasets/
+__pycache__/
+.ipynb_checkpoints/
+.git/
+
+!multivariate/data/data_cytometry
+!competitors/coco/experiments/data_cytometry
+!multivariate/data/data_cytometry/*.csv
+!competitors/coco/experiments/data_cytometry/*.csv
+
+!competitors/latent-selection/sachs_processed.csv

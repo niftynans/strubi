@@ -1,0 +1,1 @@
+{"Raf": ["Mek"], "Mek": ["Erk"], "Erk": ["P38", "Akt", "PIP2"], "PKA": ["Erk"], "PKC": ["Raf", "PKA", "P38", "Jnk"], "Akt": [], "P38": [], "Jnk": [], "Plcg": ["PIP2", "PKA"], "PIP2": ["PKC"], "PIP3": ["Akt", "Mek", "P38", "PKA", "Jnk"]}
